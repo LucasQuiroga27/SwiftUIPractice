@@ -2,7 +2,7 @@
 //  SwiftUIPracticeApp.swift
 //  SwiftUIPractice
 //
-//  Created by Jamer Quiroga on 10/07/23.
+//  Created by Lucas Quiroga on 10/07/23.
 //
 
 import SwiftUI

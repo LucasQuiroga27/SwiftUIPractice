@@ -14,6 +14,8 @@
 		04DF53C22A5CFA5E00A14696 /* SwiftUIPracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DF53C12A5CFA5E00A14696 /* SwiftUIPracticeTests.swift */; };
 		04DF53CC2A5CFA5E00A14696 /* SwiftUIPracticeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DF53CB2A5CFA5E00A14696 /* SwiftUIPracticeUITests.swift */; };
 		04DF53CE2A5CFA5E00A14696 /* SwiftUIPracticeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DF53CD2A5CFA5E00A14696 /* SwiftUIPracticeUITestsLaunchTests.swift */; };
+		04DF53DB2A5CFF4100A14696 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DF53DA2A5CFF4100A14696 /* CircleImage.swift */; };
+		04DF53DD2A5D14C700A14696 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DF53DC2A5D14C700A14696 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		04DF53C72A5CFA5E00A14696 /* SwiftUIPracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIPracticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		04DF53CB2A5CFA5E00A14696 /* SwiftUIPracticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIPracticeUITests.swift; sourceTree = "<group>"; };
 		04DF53CD2A5CFA5E00A14696 /* SwiftUIPracticeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIPracticeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		04DF53DA2A5CFF4100A14696 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		04DF53DC2A5D14C700A14696 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +100,8 @@
 			children = (
 				04DF53B02A5CFA5B00A14696 /* SwiftUIPracticeApp.swift */,
 				04DF53B22A5CFA5B00A14696 /* ContentView.swift */,
+				04DF53DA2A5CFF4100A14696 /* CircleImage.swift */,
+				04DF53DC2A5D14C700A14696 /* MapView.swift */,
 				04DF53B42A5CFA5D00A14696 /* Assets.xcassets */,
 				04DF53B62A5CFA5D00A14696 /* Preview Content */,
 			);
@@ -258,7 +264,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				04DF53B32A5CFA5B00A14696 /* ContentView.swift in Sources */,
+				04DF53DD2A5D14C700A14696 /* MapView.swift in Sources */,
 				04DF53B12A5CFA5B00A14696 /* SwiftUIPracticeApp.swift in Sources */,
+				04DF53DB2A5CFF4100A14696 /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
