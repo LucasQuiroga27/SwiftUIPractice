@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Costa Verde",
+        "category": "Playas",
+        "city": "Lima",
+        "state": "Lima",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Miraflores - Barranco - Chorrillos",
+        "coordinates": {
+            "longitude": -77.022770,
+            "latitude": -12.141948
+        },
+        "description": "La Costa Verde en Lima, Perú, es una impresionante franja costera con playas, acantilados y vistas al mar. Es famosa por sus actividades al aire libre, vida nocturna y distritos como Miraflores, Barranco y Chorrillos.",
+        "imageName": "costaVerde"
+    },
+    {
+        "name": "Rio Amazonas",
+        "category": "rios",
+        "city": "Loreto",
+        "state": "Iquitos",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Loreto",
+        "coordinates": {
+            "longitude": -73.2538,
+            "latitude": -3.7491
+        },
+        "description": "La vasta y exuberante selva amazónica en el norte de Perú, hogar de una increíble diversidad de flora y fauna, así como de comunidades indígenas. Ofrece experiencias únicas de ecoturismo, incluyendo paseos en bote por los ríos amazónicos y caminatas por la selva.",
+        "imageName": "amazonas"
+    },
+    {
+        "name": "Ciudadela de Chan Chan",
+        "category": "ruinas",
+        "city": "Trujillo",
+        "state": "La Libertad",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Trujillo",
+        "coordinates": {
+            "longitude": -79.0325,
+            "latitude": -8.1142
+        },
+        "description": "Chan Chan es el sitio arqueológico de una antigua ciudad de barro construida por la civilización Chimú. Es considerada la ciudad de adobe más grande de América y un testimonio impresionante de la ingeniería y la cultura de la época. Con sus elaboradas decoraciones y complejos laberintos, explorar Chan Chan es como viajar en el tiempo a una civilización antigua y fascinante.",
+        "imageName": "chanchan"
+    },
+    {
+        "name": "Parque Nacional Huascarán",
+        "category": "montanias",
+        "city": "Huaraz",
+        "state": "Ancash",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Huaraz",
+        "coordinates": {
+            "longitude": -77.6556,
+            "latitude": -9.2481
+        },
+        "description": "El Parque Nacional Huascarán es un tesoro natural ubicado en la Cordillera Blanca de los Andes peruanos. Hogar de montañas majestuosas, glaciares y lagunas de aguas turquesas, el parque es un paraíso para los amantes de la naturaleza y los entusiastas de los deportes al aire libre. Además de su impresionante belleza escénica, el Parque Nacional Huascarán alberga una rica biodiversidad y es refugio de especies de flora y fauna únicas. Los visitantes pueden disfrutar de senderismo, alpinismo, observación de aves y una experiencia inolvidable en la naturaleza.",
+        "imageName": "huascaran"
+    },
+    {
+        "name": "Líneas de Nazca",
+        "category": "ruinas",
+        "city": "Ica",
+        "state": "Nazca",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Ica",
+        "coordinates": {
+            "longitude": -74.9384,
+            "latitude": -14.8357
+        },
+        "description": "Las Líneas de Nazca son geoglifos enigmáticos que se encuentran en el desierto de Nazca. Estas figuras gigantes, que incluyen animales, plantas y formas geométricas, son trazadas en la tierra y solo pueden ser vistas desde el aire. El misterio de su origen y el propósito de su creación han desconcertado a los arqueólogos y visitantes durante décadas. Explorar las Líneas de Nazca es una experiencia fascinante que te sumergirá en un enigma cultural e histórico único en el mundo.",
+        "imageName": "lineasnazca"
+    },
+    {
+        "name": "Machu Picchu",
+        "category": "ruinas",
+        "city": "Cusco",
+        "state": "Cusco",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "cusco",
+        "coordinates": {
+            "longitude": -72.5450,
+            "latitude": -13.1631
+        },
+        "description": "Machu Picchu, ubicada en lo alto de los Andes peruanos, es una ciudadela inca fascinante y misteriosa. Rodeada de majestuosas montañas, ofrece vistas panorámicas impresionantes y es un destino emblemático para los amantes de la historia y la aventura. Con sus intrincadas estructuras de piedra, calles empedradas y paisajes cautivadores, transporta a los visitantes a tiempos ancestrales y despierta la imaginación. Este Patrimonio de la Humanidad, envuelto en un aura de misticismo, revela la maestría arquitectónica y la espiritualidad de la antigua civilización inca. Caminar por sus terrazas agrícolas y contemplar el sol que se eleva sobre sus ruinas es una experiencia inolvidable que te conecta con la grandeza del pasado. Machu Picchu, envuelta en un velo de enigma y rodeada de una naturaleza exuberante, es un tesoro histórico y un destino imperdible para los viajeros intrépidos.",
+        "imageName": "machupicchu"
+    },
+    {
+        "name": "Reserva Paracas",
+        "category": "playas",
+        "city": "Ica",
+        "state": "Paracas",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Paracas",
+        "coordinates": {
+            "longitude": -76.2219,
+            "latitude": -13.8352
+        },
+        "description": "Paracas es un destino costero que cautiva con su belleza natural y vida marina vibrante. Sus playas impresionantes, acantilados imponentes y la Reserva Nacional de Paracas, hogar de diversas especies de aves y vida marina, hacen de este lugar un paraíso para los amantes de la naturaleza y los deportes acuáticos.",
+        "imageName": "paracas"
+    },
+    {
+        "name": "Sacsayhuamán",
+        "category": "Mountains",
+        "city": "Cusco",
+        "state": "Cusco",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Cusco",
+        "coordinates": {
+            "longitude": -71.9819,
+            "latitude": -13.5104
+        },
+        "description": "Sacsayhuamán es una impresionante fortaleza inca ubicada cerca de la ciudad de Cusco. Con sus enormes muros de piedra perfectamente encajados, es un testimonio impresionante de la destreza arquitectónica y el ingenio de los incas. Este sitio histórico ofrece vistas panorámicas de la ciudad de Cusco y sus alrededores, y es un lugar fascinante para explorar la historia y la cultura inca. Sacsayhuamán también es conocido por sus festivales tradicionales, como la celebración del Inti Raymi, donde se recrea el antiguo ritual incaico del solsticio de invierno. Visitar Sacsayhuamán es sumergirse en el pasado glorioso del imperio inca y admirar la grandiosidad de su legado arquitectónico.",
+        "imageName": "sacsayhuaman"
+    },
+    {
+        "name": "Valle Sagrado de los Incas",
+        "category": "ruinas",
+        "city": "Urubamba",
+        "state": "Cusco",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Urubamba",
+        "coordinates": {
+            "longitude": -72.1561,
+            "latitude": -13.3022
+        },
+        "description": "El Valle Sagrado de los Incas, ubicado en los Andes peruanos, es un valle fértil que alberga hermosas ciudades, pueblos y sitios arqueológicos incas. Con su impresionante paisaje montañoso, terrazas agrícolas en cascada y ríos serpenteantes, el valle es una muestra del ingenio y la armonía que los incas lograron con la naturaleza. Aquí se encuentran destinos imperdibles como Pisac, Ollantaytambo y Chinchero, donde se pueden explorar ruinas, mercados artesanales y sumergirse en la rica historia y cultura andina. El Valle Sagrado es también una parada clave en el camino hacia Machu Picchu, y ofrece una visión fascinante de la vida cotidiana y las tradiciones ancestrales de los incas.",
+        "imageName": "vallesagrado"
+    }
+]
